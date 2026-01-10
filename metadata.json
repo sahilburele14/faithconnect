@@ -1,0 +1,8 @@
+{
+  "name": "FaithConnect",
+  "description": "A mobile-first spiritual community platform connecting worshipers with religious leaders through content, community, and meaningful conversations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
