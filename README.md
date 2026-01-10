@@ -54,7 +54,9 @@ Backend (optional): Supabase / Firebase
 
 Deployment: Vercel / GitHub Pages
 
+
 📸 Screenshots
+
 <img width="570" height="910" alt="image" src="https://github.com/user-attachments/assets/039141d1-d9b1-41a0-9a4e-8ae22c0775f6" />
 <img width="563" height="916" alt="image" src="https://github.com/user-attachments/assets/79c64d33-23ef-4bdb-928e-acdcba7dc10a" />
 <img width="566" height="915" alt="image" src="https://github.com/user-attachments/assets/61b3c113-3e3b-43bc-ba9b-6b31d8f3173e" />
