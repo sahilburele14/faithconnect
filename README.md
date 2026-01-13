@@ -1,6 +1,3 @@
-FaithConnect – Harmonizing Technology & Spirit  
-A platform connecting seekers of faith 🙏 and spiritual leaders 📜 through community, prayer walls, events, and guidance.
-
 # 🌟 FaithConnect
 
 **A sacred space where faith meets community and leadership.**  
